@@ -30,3 +30,8 @@ https://github.com/HaochunLiang/Stanford-CS20
 https://github.com/HaochunLiang/Stanford-CS20/tree/master/Slides
 
 https://www.youtube.com/watch?v=wG_nF1awSSY
+
+### Auto Diff 
+(très important)
+
+https://www.youtube.com/watch?v=boIOgsu-Q8E
