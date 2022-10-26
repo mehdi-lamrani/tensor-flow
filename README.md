@@ -1,6 +1,17 @@
 # tensor-flow
 
 tutos & resources : 
+[Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
+
+[Basic_linear_Regression_tensor](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)
+
+[Logistic Regression Example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)
+
+[Build a recurrent neural network (LSTM) with TensorFlow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/notebooks/3_NeuralNetworks/recurrent_network.ipynb)
+
+[Convolutional Neural Network Example](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb)
+
+[Home_price_prediction](https://github.com/TahaSherif/Predicting-House-Prices-with-Regression-Tensorflow/blob/master/Predicting%20House%20Prices%20with%20Regression%20-%20Tensorflow%20.ipynb)
 
 [Object_Detection](http://www.tensorflow.org/hub/tutorials/tf2_object_detection?hl=fr)
 
@@ -9,4 +20,5 @@ tutos & resources :
 [Mnist_DATA_tuto](https://larevueia.fr/tensorflow/)
 
 [Tensorflow_tuto](https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow)
-[Home_price_prediction](https://github.com/TahaSherif/Predicting-House-Prices-with-Regression-Tensorflow/blob/master/Predicting%20House%20Prices%20with%20Regression%20-%20Tensorflow%20.ipynb)
+
+
