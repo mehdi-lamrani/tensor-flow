@@ -6,6 +6,6 @@ tutos & resources :
 
 [Mnist_DATA](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/01_Simple_Linear_Model.ipynb)
 
-[Mnist_DATA](https://larevueia.fr/tensorflow/)
+[Mnist_DATA_tuto](https://larevueia.fr/tensorflow/)
 
 [Tensorflow_tuto](https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow)
