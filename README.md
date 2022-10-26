@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=wG_nF1awSSY
 
 https://www.youtube.com/watch?v=boIOgsu-Q8E
 
-### Dist
+### Distribution
 
 https://www.youtube.com/watch?v=S1tN9a4Proc
 
