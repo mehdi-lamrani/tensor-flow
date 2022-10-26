@@ -1,6 +1,6 @@
 # tensor-flow
 
-tutos & resources : 
+## tutos & resources : 
 
 [Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
 
@@ -22,4 +22,9 @@ tutos & resources :
 
 [Tensorflow_tuto](https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow)
 
+## Courses
 
+### Stanford 
+
+https://github.com/HaochunLiang/Stanford-CS20
+https://github.com/HaochunLiang/Stanford-CS20/tree/master/Slides
