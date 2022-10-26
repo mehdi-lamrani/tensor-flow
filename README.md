@@ -1,6 +1,7 @@
 # tensor-flow
 
 tutos & resources : 
+
 [Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
 
 [Basic_linear_Regression_tensor](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)
