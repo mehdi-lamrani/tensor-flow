@@ -35,3 +35,8 @@ https://www.youtube.com/watch?v=wG_nF1awSSY
 (très important)
 
 https://www.youtube.com/watch?v=boIOgsu-Q8E
+
+### Dist
+
+https://www.youtube.com/watch?v=S1tN9a4Proc
+
