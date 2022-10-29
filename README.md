@@ -33,7 +33,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Mehdi | Modules | | | |
 | Mehdi | Layers | | | |
 | Mehdi | Models | | | |
-| Douaâ | DL Basics | | | |
+| Douaâ | DL Basics | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | |
 | Douaâ | Neural Networks | | | |
 | Douaâ | Concepts | | | |
 | Douaâ | Gradient Descent | | | |
@@ -53,7 +53,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ----- |
 |  |  |  |  |  |  |
-| Douaâ | Reinforcement learning |  |  | | | 
+| Douaâ | Reinforcement learning | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) |  | | | 
 
 
 
