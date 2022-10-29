@@ -23,13 +23,13 @@
 
 - TF Workshops Series 1
 - Zineb : CNN
-- DOuaa : RNN
+- Douaa : RNN
 
 
 ### DAY THREE
 
 - TF Workshops Series 2
-- DOuaa : RL
+- Douaa : RL
 
 
 
