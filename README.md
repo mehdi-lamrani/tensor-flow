@@ -1,6 +1,39 @@
-# tensor-flow
+# tensorflow
 
-## tutos & resources : 
+## Planning : 
+
+### DAY ONE
+
+- Mehdi : TF Basics
+- Tensors
+- Variables
+- Automatic Differenciation
+- Graphs
+- Modules
+- Layers
+- Models
+
+- Douaa : DL Basics
+- Neural Nets 
+- Concepts 
+- Gradient Descent
+
+
+### DAY TWO
+
+- TF Workshops Series 1
+- Zineb : CNN
+- DOuaa : RNN
+
+
+### DAY THREE
+
+- TF Workshops Series 2
+- DOuaa : RL
+
+
+
+## Tutos & resources : 
 
 [Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
 
