@@ -25,7 +25,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 ### DAY ONE 
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ------ |
-| Mehdi | TF Basics | | | |
+| Mehdi | TF Basics | [TF presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EeVyRhQ9BhJOmNTt2oX7KXMBluTwwm8nLCabD4bxrJKTmQ?e=iV6exk) | | |
 | Mehdi | Tensors | | | |
 | Mehdi | Variables |  |
 | Mehdi | Automatic Differenciation |  |
