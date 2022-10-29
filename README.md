@@ -22,36 +22,39 @@ Caution is to be applied - Critical cross-reading need to be applied
 
 ## Planning : 
 
-### DAY ONE
+### DAY ONE 
+| Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
+| ------ | ------ | ------ |  ------ | ------ | ------ |
+| Mehdi | TF Basics | | | |
+| Mehdi | Tensors | | | |
+| Mehdi | Variables |  |
+| Mehdi | Automatic Differenciation |  |
+| Mehdi | Graphs |  |
+| Mehdi | Modules | | | |
+| Mehdi | Layers | | | |
+| Mehdi | Models | | | |
+| Douaâ | DL Basics | | | |
+| Douaâ | Neural Networks | | | |
+| Douaâ | Concepts | | | |
+| Douaâ | Gradient Descent | | | |
 
-- Mehdi : TF Basics
-- Tensors
-- Variables
-- Automatic Differenciation
-- Graphs
-- Modules
-- Layers
-- Models
-
-- Douaa : DL Basics
-- Neural Nets 
-- Concepts 
-- Gradient Descent
 
 
 ### DAY TWO
-
-- TF Workshops Series 1
-- Zineb : CNN
-
-- [workshop CNN with tensorboard](https://github.com/mehdi-lamrani/tensorflow/blob/main/4-Neural_Networks_with_Tensorboard.ipynb) 
-- Douaa : RNN workshop Stock price predicion
+| Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
+| ------ | ------ | ------ |  ------ | ------ | ------ |
+| Zineb  |  CNN | [CNN presentation]() |  | [CNN with Tensorboard]() | | 
+| Douaâ | RNN | | | | |
 
 
 ### DAY THREE
 
-- TF Workshops Series 2
-- Douaa : RL
+| Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
+| ------ | ------ | ------ |  ------ | ------ | ----- |
+|  |  |  |  |  |  |
+| Douaâ | Reinforcement learning |  |  | | | 
+
+
 
 
 
