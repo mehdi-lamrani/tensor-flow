@@ -44,7 +44,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ------ |
 |  | TF workshop series1 : linear regression |  |  | [linear regression with TF-solution](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/KPLR_TF_Linear_regression.ipynb) |  |
-| Zineb  |  CNN | [CNN presentation]() |  | [CNN with Tensorboard]() | | 
+| Zineb  |  CNN | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  | [CNN with Tensorboard]() | | 
 | Douaâ | RNN | | | [LSTM-Airline passengers forecasting ](https://github.com/mehdi-lamrani/Neural-Networks/blob/main/LSTM_Forecast.ipynb) | |
 
 
