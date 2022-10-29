@@ -6,6 +6,8 @@ Feel free to edit and update content
 
 [Neural Networks Course - KPLR](https://sylacefr.sharepoint.com/:b:/s/KPLR/EbMIbw-zj7xCtf_8uuInlMABvH9HahGd-YzZgF65Rwj31g?e=UZpdCQ)
 
+[Convolutional Neural Network](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p)
+
 [Neural Networks Course (2) - KPLR](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3)  
 (maybe this course is just a duplicate)
 
