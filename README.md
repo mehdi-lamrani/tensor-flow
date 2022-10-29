@@ -43,7 +43,8 @@ Caution is to be applied - Critical cross-reading need to be applied
 
 - TF Workshops Series 1
 - Zineb : CNN
--[workshop CNN with tensorboard](https://github.com/mehdi-lamrani/tensorflow/blob/main/4-Neural_Networks_with_Tensorboard.ipynb) 
+
+[workshop CNN with tensorboard](https://github.com/mehdi-lamrani/tensorflow/blob/main/4-Neural_Networks_with_Tensorboard.ipynb) 
 - Douaa : RNN
 
 
