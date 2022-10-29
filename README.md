@@ -45,7 +45,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 - Zineb : CNN
 
 - [workshop CNN with tensorboard](https://github.com/mehdi-lamrani/tensorflow/blob/main/4-Neural_Networks_with_Tensorboard.ipynb) 
-- Douaa : RNN
+- Douaa : RNN workshop Stock price predicion
 
 
 ### DAY THREE
