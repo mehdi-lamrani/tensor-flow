@@ -43,6 +43,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 ### DAY TWO
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ------ |
+|  | TF workshop series1 : linear regression |  |  | [linear regression with TF-solution](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/KPLR_TF_Linear_regression.ipynb) |  |
 | Zineb  |  CNN | [CNN presentation]() |  | [CNN with Tensorboard]() | | 
 | Douaâ | RNN | | | | |
 
