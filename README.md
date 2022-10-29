@@ -6,12 +6,12 @@ Feel free to edit and update content
 
 [Neural Networks Course - KPLR](https://sylacefr.sharepoint.com/:b:/s/KPLR/EbMIbw-zj7xCtf_8uuInlMABvH9HahGd-YzZgF65Rwj31g?e=UZpdCQ)
 
-[Neural Networks Course (2) - KPLR](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3)
+[Neural Networks Course (2) - KPLR](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3)  
 (maybe this course is just a duplicate)
 
 [TensorFlow Course - KPLR](https://sylacefr.sharepoint.com/:p:/s/KPLR/EeVyRhQ9BhJOmNTt2oX7KXMBluTwwm8nLCabD4bxrJKTmQ?e=iV6exk)
 
-[TensorFlow Book](https://sylacefr.sharepoint.com/:b:/s/KPLR/EVE-w4xgJ0ZCmbTC5theHVYBVcG1SbnsTrmZ9ZVJXNwNUw?e=EmjQDJ)
+[TensorFlow Book](https://sylacefr.sharepoint.com/:b:/s/KPLR/EVE-w4xgJ0ZCmbTC5theHVYBVcG1SbnsTrmZ9ZVJXNwNUw?e=EmjQDJ)  
 Warning : book is outdated (2017) and deals with TF V1 - Some general concepts apply but be aware that V2 had major shifts compared to V1
 Caution is to be applied - Critical cross-reading need to be applied
 
