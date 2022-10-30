@@ -57,7 +57,31 @@ Caution is to be applied - Critical cross-reading need to be applied
 
 
 
+## Courses
 
+### Stanford 
+
+https://github.com/HaochunLiang/Stanford-CS20
+https://github.com/HaochunLiang/Stanford-CS20/tree/master/Slides
+
+https://www.youtube.com/watch?v=wG_nF1awSSY
+
+### Auto Diff 
+(très important)
+
+https://www.youtube.com/watch?v=boIOgsu-Q8E
+
+### Distribution
+
+https://www.youtube.com/watch?v=S1tN9a4Proc
+
+### persson
+
+https://github.com/aladdinpersson/Machine-Learning-Collection
+
+### heaton
+
+https://github.com/mehdi-lamrani/deep-learning-modules
 
 ## Tutos & resources : 
 
@@ -80,22 +104,4 @@ Caution is to be applied - Critical cross-reading need to be applied
 [Mnist_DATA_tuto](https://larevueia.fr/tensorflow/)
 
 [Tensorflow_tuto](https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow)
-
-## Courses
-
-### Stanford 
-
-https://github.com/HaochunLiang/Stanford-CS20
-https://github.com/HaochunLiang/Stanford-CS20/tree/master/Slides
-
-https://www.youtube.com/watch?v=wG_nF1awSSY
-
-### Auto Diff 
-(très important)
-
-https://www.youtube.com/watch?v=boIOgsu-Q8E
-
-### Distribution
-
-https://www.youtube.com/watch?v=S1tN9a4Proc
 
