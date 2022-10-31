@@ -102,6 +102,9 @@ https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
 https://github.com/mehdi-lamrani/deep-learning-modules  
 https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 
+### codebasics
+https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+
 ## Tutos & resources : 
 
 [Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
