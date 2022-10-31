@@ -57,6 +57,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Zineb  |  CNN : pooling types | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  |  | | 
 | Zineb  |  CNN : fully connected network | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  | | | 
 | Zineb  |  CNN : workshop  |  |  | [MNIST Fashion dataset with Tensorboard]() | | 
+| Zineb  |  Siamese Neural Network : workshop  |  |  | [Face_Recognition_Siamese_network.ipynb]() | | 
 | Douaâ | RNN : types and use cases | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
 | Douaâ | RNN : general architecture | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
 | Douaâ | RNN : forget gate | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
