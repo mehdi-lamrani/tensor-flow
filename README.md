@@ -51,9 +51,18 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ------ |
 |  | TF workshop series1 : linear regression |  |  | [linear regression with TF-solution](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/KPLR_TF_Linear_regression.ipynb) |  |
-| Zineb  |  CNN | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  | [CNN with Tensorboard]() | | 
-| Douaâ | RNN | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | [LSTM-Airline passengers forecasting with keras ](https://github.com/mehdi-lamrani/Neural-Networks/blob/main/LSTM_Forecast.ipynb)  -  [LSTM-Frozen Desserts Production with Tensorflow](https://github.com/doudi0101/ML-TPs/blob/main/RNN_Frozen_Desserts.ipynb) | to do : add markdown and comments from the video as hint, add 2021 data from kaggle | 
-
+| Zineb  |  CNN : convolution  | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  |  | | 
+| Zineb  |  CNN : use cases  | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  |  | | 
+| Zineb  |  CNN : ReLu function | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  | | | 
+| Zineb  |  CNN : pooling types | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  |  | | 
+| Zineb  |  CNN : fully connected network | [CNN presentation](https://docs.google.com/presentation/d/1R0aAw0dkHO0FMjWc7_dNb0vYR6lXM65OJxluRZcQ9X8/edit#slide=id.p) |  | | | 
+| Zineb  |  CNN : workshop  |  |  | [MNIST Fashion dataset with Tensorboard]() | | 
+| Douaâ | RNN : types and use cases | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
+| Douaâ | RNN : general architecture | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
+| Douaâ | RNN : forget gate | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
+| Douaâ | RNN : input gate | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
+| Douaâ | RNN : cell state | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
+| Douaâ | RNN : workshop |  | | [LSTM-Airline passengers forecasting with keras ](https://github.com/mehdi-lamrani/Neural-Networks/blob/main/LSTM_Forecast.ipynb)  -  [LSTM-Frozen Desserts Production with Tensorflow](https://github.com/doudi0101/ML-TPs/blob/main/RNN_Frozen_Desserts.ipynb) | to do : add markdown and comments from the video as hint, add 2021 data from kaggle | 
 
 ### DAY THREE
 
