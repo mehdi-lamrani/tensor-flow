@@ -77,12 +77,12 @@ https://www.youtube.com/watch?v=S1tN9a4Proc
 
 ### persson
 
-https://github.com/aladdinpersson/Machine-Learning-Collection
+https://github.com/aladdinpersson/Machine-Learning-Collection  
 https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
 
 ### heaton
 
-https://github.com/mehdi-lamrani/deep-learning-modules
+https://github.com/mehdi-lamrani/deep-learning-modules  
 https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 
 ## Tutos & resources : 
