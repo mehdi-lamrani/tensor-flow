@@ -33,11 +33,18 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Mehdi | Modules | | | |
 | Mehdi | Layers | | | |
 | Mehdi | Models | | | |
-| Douaâ | DL Basics | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | |
+| Douaâ | Neuron | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | |
 | Douaâ | Neural Networks | | | |
-| Douaâ | Concepts | | | |
-| Douaâ | Gradient Descent | | | |
-
+| Douaâ | input layer | | | |
+| Douaâ | hidden layer | | | |
+| Douaâ | output layer | | | |
+| Douaâ | weights | | | |
+| Douaâ | polarisation node /bias | | | |
+| Douaâ | learning rate | | | |
+| Douaâ | activation function | | | | 
+| Douaâ | loss/cost function | | | | 
+| Douaâ | back propagation | | | | 
+| Douaâ | gradient descent | | | | 
 
 
 ### DAY TWO
