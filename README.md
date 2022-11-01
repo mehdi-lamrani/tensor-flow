@@ -41,7 +41,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | weights | | | |
 | Douaâ | polarisation node /bias | | | |
 | Douaâ | learning rate | | | |
-| Douaâ | activation function | | | | 
+| Douaâ | activation function | | | [Trying Different activation functions](https://colab.research.google.com/drive/1GKbcWGaSoaRT8Ky3votUbtv_yYV0karp?usp=sharing)| 
 | Douaâ | loss/cost function | | | | 
 | Douaâ | back propagation | | | | 
 | Douaâ | gradient descent | | | | 
