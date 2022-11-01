@@ -116,7 +116,7 @@ https://github.com/mehdi-lamrani/deep-learning-modules
 https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 
 ### codebasics
-https://github.com/codebasics/deep-learning-keras-tf-tutorial
+https://github.com/codebasics/deep-learning-keras-tf-tutorial  
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
 </details>
