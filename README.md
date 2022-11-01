@@ -40,6 +40,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Mehdi | Modules | | | |
 | Mehdi | Layers | | | |
 | Mehdi | Models | | | |
+| ----  | ---- | ---- | ---- | ---- |
 | Douaâ | Neuron | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | |
 | Douaâ | Neural Networks | | | |
 | Douaâ | input layer | | | |
@@ -52,6 +53,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | loss/cost function | | | [cost fnction in pure python + in tensorflow](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/Cost_function_vanilla_and_TF.ipynb)| 
 | Douaâ | back propagation | | | | [for math lovers](https://mmuratarat.github.io/2020-01-09/backpropagation) - [very simplified math](https://hmkcode.com/ai/backpropagation-step-by-step/)|
 | Douaâ | gradient descent | | | | 
+| ----  | ---- | ---- | ---- | ---- | 
 | Mehdi | **TensorBoard** | | | |
 
 ### DAY TWO
