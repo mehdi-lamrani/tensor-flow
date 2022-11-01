@@ -54,10 +54,10 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | back propagation | | | | [for math lovers](https://mmuratarat.github.io/2020-01-09/backpropagation) - [very simplified math](https://hmkcode.com/ai/backpropagation-step-by-step/)|
 | Douaâ | gradient descent | | | | 
 | ----  | ---- | ---- | ---- | ---- | 
-| Mehdi | | [TF_CPU_GPU]() | | |
-| Mehdi | | [TF_Seq_Func]() | | |
-| Mehdi | | [TF_Save_Load]() | | |
-| Mehdi | | [TF_Transfer_Learning]() | | |
+| Mehdi | | | [TF_CPU_GPU]() | |
+| Mehdi | | | [TF_Seq_Func]() | |
+| Mehdi | | | [TF_Save_Load]() | |
+| Mehdi | | | [TF_Transfer_Learning]() | |
 | ----  | ---- | ---- | ---- | ---- |
 | Mehdi | **TensorBoard** | | | |
 | Mehdi | | [TF_TensorBoard_Scalar]() | | |
