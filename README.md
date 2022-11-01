@@ -110,6 +110,10 @@ https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 https://github.com/codebasics/deep-learning-keras-tf-tutorial  
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
+## ng hyperpameter tuning
+https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc
+  
+  
 ### Auto Diff 
 (très important)
 
