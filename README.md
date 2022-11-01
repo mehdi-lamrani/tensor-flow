@@ -2,7 +2,10 @@
 
 ## Course Material
 
-Feel free to edit and update content
+<details>
+  <summary>Details</summary>
+  
+  Feel free to edit and update content
 
 [Neural Networks Course - KPLR](https://sylacefr.sharepoint.com/:b:/s/KPLR/EbMIbw-zj7xCtf_8uuInlMABvH9HahGd-YzZgF65Rwj31g?e=UZpdCQ)
 
@@ -19,9 +22,13 @@ Caution is to be applied - Critical cross-reading need to be applied
 
 [LSTM Course](https://sylacefr.sharepoint.com/:b:/s/KPLR/EV7ec_n0-NpJmelVQL1kAysBJoUSV1PejzFZxaImCc_3Xw?e=aVe4tx)
 
+</details>
 
 ## Planning : 
 
+<details>
+  <summary>Details</summary>
+  
 ### DAY ONE 
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ------ |
@@ -75,9 +82,13 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Mehdi | Model Serving | [presentation]() |  | | | 
 
 
+</details>
 
 ## Courses
 
+<details>
+  <summary>Details</summary>
+  
 ### Stanford 
 
 https://github.com/HaochunLiang/Stanford-CS20
@@ -108,8 +119,13 @@ https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 https://github.com/codebasics/deep-learning-keras-tf-tutorial
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
+</details>
+
 ## Tutos & resources : 
 
+<details>
+  <summary>Details</summary>
+  
 [Basic_Operations_Tensorflow](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)
 
 [Basic_linear_Regression_tensor](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)
@@ -130,3 +146,4 @@ https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
 
 [Tensorflow_tuto](https://www.simplilearn.com/tutorials/deep-learning-tutorial/tensorflow)
 
+</details>
