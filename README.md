@@ -60,10 +60,10 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Mehdi | | | [TF_Transfer_Learning]() | |
 | ----  | ---- | ---- | ---- | ---- |
 | Mehdi | **TensorBoard** | | | |
-| Mehdi | | [TF_TensorBoard_Scalar]() | | |
-| Mehdi | | [TF_TensorBoard_Confusion_Matrix]() | | |
-| Mehdi | | [TF_Tensorboard_HyperParams]() | | |
-| Mehdi | | [TF_Tensorboard_Images]() | | |
+| Mehdi | | | [TF_TensorBoard_Scalar]() | | 
+| Mehdi | | | [TF_TensorBoard_Confusion_Matrix]() | | 
+| Mehdi | | | [TF_Tensorboard_HyperParams]() | | 
+| Mehdi | | | [TF_Tensorboard_Images]() | | 
 
 ### DAY TWO
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
