@@ -49,7 +49,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | polarisation node /bias | | | |
 | Douaâ | learning rate | | | |
 | Douaâ | activation function | | | [Trying Different activation functions](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/Trying_different_activation_functions_TF.ipynb)| 
-| Douaâ | loss/cost function | | | [cost fnction in pure python + in tensorflow](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-09-07-02-Cost-Minimization-using-Gradient-Descent.ipynb#scrollTo=BR4bzYcJy84g)| 
+| Douaâ | loss/cost function | | | [cost fnction in pure python + in tensorflow](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/Cost_function_vanilla_and_TF.ipynb)| 
 | Douaâ | back propagation | | | | [for math lovers](https://mmuratarat.github.io/2020-01-09/backpropagation) - [very simplified math](https://hmkcode.com/ai/backpropagation-step-by-step/)|
 | Douaâ | gradient descent | | | | 
 | Mehdi | **TensorBoard** | | | |
