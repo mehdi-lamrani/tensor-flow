@@ -42,7 +42,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | polarisation node /bias | | | |
 | Douaâ | learning rate | | | |
 | Douaâ | activation function | | | [Trying Different activation functions](https://colab.research.google.com/drive/1GKbcWGaSoaRT8Ky3votUbtv_yYV0karp?usp=sharing)| 
-| Douaâ | loss/cost function | | | | 
+| Douaâ | loss/cost function | | | [cost fnction in pure python + in tensorflow](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/main/_notebooks/2020-09-07-02-Cost-Minimization-using-Gradient-Descent.ipynb#scrollTo=BR4bzYcJy84g)| 
 | Douaâ | back propagation | | | | 
 | Douaâ | gradient descent | | | | 
 
