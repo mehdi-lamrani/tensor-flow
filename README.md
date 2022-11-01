@@ -96,15 +96,6 @@ https://github.com/HaochunLiang/Stanford-CS20/tree/master/Slides
 
 https://www.youtube.com/watch?v=wG_nF1awSSY
 
-### Auto Diff 
-(très important)
-
-https://www.youtube.com/watch?v=boIOgsu-Q8E
-
-### Distribution
-
-https://www.youtube.com/watch?v=S1tN9a4Proc
-
 ### persson
 
 https://github.com/aladdinpersson/Machine-Learning-Collection  
@@ -118,6 +109,15 @@ https://www.youtube.com/playlist?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
 ### codebasics
 https://github.com/codebasics/deep-learning-keras-tf-tutorial  
 https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
+
+### Auto Diff 
+(très important)
+
+https://www.youtube.com/watch?v=boIOgsu-Q8E
+
+### Distribution
+
+https://www.youtube.com/watch?v=S1tN9a4Proc
 
 </details>
 
