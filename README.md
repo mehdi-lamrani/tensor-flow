@@ -56,6 +56,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | ----  | ---- | ---- | ---- | ---- | 
 | Mehdi | | | [TF_CPU_GPU]() | |
 | Mehdi | | | [TF_Seq_Func]() | |
+| Mehdi | | | [TF_SubClass]() | |
 | Mehdi | | | [TF_Save_Load]() | |
 | Mehdi | | | [TF_Transfer_Learning]() | |
 | ----  | ---- | ---- | ---- | ---- |
