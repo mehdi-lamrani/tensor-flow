@@ -89,7 +89,9 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ----- |
 |  |  |  |  |  |  |
-| Douaâ | Reinforcement learning | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) |  | | Mehdi | Advanced TF Concepts | [presentation]() |  | | | 
+| Douaâ | Reinforcement learning | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) |  | | https://www.microsoft.com/en-us/research/group/deep-reinforcement-learning/ |
+| ------ | ------ | ------ |  ------ | ------ | ----- |----- |
+| Mehdi | Advanced TF Concepts | [presentation]() |  | |  | 
 | Mehdi | TF Parallel Distribution | [presentation]() |  | | | 
 | Mehdi | Model Serving | [presentation]() |  | | | 
 
