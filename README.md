@@ -82,7 +82,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Douaâ | RNN : forget gate | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
 | Douaâ | RNN : input gate | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
 | Douaâ | RNN : cell state | included in [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | | | |
-| Douaâ | RNN : workshop |  | | [LSTM-Airline passengers forecasting with keras ](https://github.com/mehdi-lamrani/Neural-Networks/blob/main/LSTM_Forecast.ipynb)  -  [LSTM-Frozen Desserts Production with Tensorflow](https://github.com/doudi0101/ML-TPs/blob/main/RNN_Frozen_Desserts.ipynb) | to do : add markdown and comments from the video as hint, add 2021 data from kaggle | 
+| Douaâ | RNN : workshop |  | [LSTM-Frozen Desserts Production with Tensorflow exercice](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/frozen_desserts_forecasting_LSTM_TF_exercice.ipynb) | [LSTM-Airline passengers forecasting with keras ](https://github.com/mehdi-lamrani/Neural-Networks/blob/main/LSTM_Forecast.ipynb)  -  [LSTM-Frozen Desserts Production with Tensorflow solution](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/frozen_desserts_forecasting_LSTM_TF_solution.ipynb) | | 
 
 ### DAY THREE
 
