@@ -89,7 +89,7 @@ Caution is to be applied - Critical cross-reading need to be applied
 | Trainer Name | Topic |  Presentation | Exercice Notebook | Solution Notebook | External Ressource/example |
 | ------ | ------ | ------ |  ------ | ------ | ----- |
 |  |  |  |  |  |  |
-| Douaâ | Reinforcement learning | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) |  | | https://www.microsoft.com/en-us/research/group/deep-reinforcement-learning/ |
+| Douaâ | Reinforcement learning | [presentation](https://sylacefr.sharepoint.com/:p:/s/KPLR/EWgGzXjvPoRMlTNeiU-M8m8BTRh2AvfOpIoWV3TVeyXH6w?e=VrFcr3) | [taxi](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/openai_gym_taxi_tutorial%20-%20Excercice.ipynb) - [frozen lake](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/Q_Learning_with_OpenAI_Gym_FrozenLake%20-%20Exercice.ipynb) - [pole with tf  agents](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/DQN_pole%20-%20excercice.ipynb) | [taxi](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/openai_gym_taxi_tutorial.ipynb) - [frozen lake](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/Q_Learning_with_OpenAI_Gym_FrozenLake.ipynb) - [pole with tf  agents](https://github.com/mehdi-lamrani/tensorflow/blob/main/clean/DQN_pole.ipynb) | https://www.microsoft.com/en-us/research/group/deep-reinforcement-learning/ |
 | ------ | ------ | ------ |  ------ | ------ | ----- |----- |
 | Mehdi | Advanced TF Concepts | [presentation]() |  | |  | 
 | Mehdi | TF Parallel Distribution | [presentation]() |  | | | 
